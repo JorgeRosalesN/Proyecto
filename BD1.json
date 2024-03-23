@@ -1,0 +1,78 @@
+
+[
+    {
+    "id": 1,
+    "titulo": "El señor de los anillos",
+    "autor_nombre": "J.R.R. Tolkien",
+    "autor_nacionalidad": "Inglaterra",
+    "autor_fecha_nacimiento": "1892-01-03",
+    "autor_genero": "Fantasía",
+    "nombre_editorial": "Minotauro",
+    "ubicacion_editorial": "España",
+    "isbn": "9788445072515",
+    "precio": 20.50,
+    "Latitud_ed":  41.389740,
+    "Longitud_ed": 2.128907,
+    "cantidad_stock": 100
+    },
+    {
+    "id": 2,
+    "titulo": "Cien años de soledad",
+    "autor_nombre": "Gabriel García Márquez",
+    "autor_nacionalidad": "Colombia",
+    "autor_fecha_nacimiento": "1927-03-06",
+    "autor_genero": "Realismo mágico",
+    "nombre_editorial": "Diana",
+    "ubicacion_editorial": "Colombia",
+    "isbn": "9788423349802",
+    "precio": 18.75,
+    "Latitud_ed":  4.656712,
+    "Longitud_ed": -74.054415,
+    "cantidad_stock": 75
+    },
+    {
+    "id": 3,
+    "titulo": "1984",
+    "autor_nombre": "George Orwell",
+    "autor_nacionalidad": "Reino Unido",
+    "autor_fecha_nacimiento": "1903-06-25",
+    "autor_genero": "Ciencia ficción",
+    "nombre_editorial": "Secker & Warburg",
+    "ubicacion_editorial": "Reino Unido",
+    "isbn": "978-0451524935",
+    "precio": 15.99,
+    "Latitud_ed": 51.4900374,
+    "Longitud_ed": -0.131669,
+    "cantidad_stock": 50
+    },
+    {
+    "id": 6,
+    "titulo": "Moby Dick",
+    "autor_nombre": "Herman Melville",
+    "autor_nacionalidad": "Estados Unidos",
+    "autor_fecha_nacimiento": "1819-08-01",
+    "autor_genero": "Ficción de aventuras",
+    "nombre_editorial": "Harper & Brothers",
+    "ubicacion_editorial": "Estados Unidos",
+    "isbn": "9780142000083",
+    "precio": 22.99,
+    "Latitud_ed": 42.350807,
+    "Longitud_ed": -71.073270,
+    "cantidad_stock": 80
+    },
+    {
+    "id": 7,
+    "titulo": "Orgullo y prejuicio",
+    "autor_nombre": "Jane Austen",
+    "autor_nacionalidad": "Reino Unido",
+    "autor_fecha_nacimiento": "1775-12-16",
+    "autor_genero": "Novela romántica",
+    "nombre_editorial": "Thomas Egerton",
+    "ubicacion_editorial": "Reino Unido",
+    "isbn": "9780141439518",
+    "precio": 17.50,
+    "Latitud_ed": 51.505135,
+    "Longitud_ed": -0.126134,
+    "cantidad_stock": 90
+    }
+]

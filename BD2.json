@@ -1,0 +1,62 @@
+[
+    {
+    "id": 8,
+    "titulo": "El gran Gatsby",
+    "autor_nombre": "F. Scott Fitzgerald",
+    "autor_nacionalidad": "Estados Unidos",
+    "autor_fecha_nacimiento": "1896-09-24",
+    "autor_genero": "Novela contemporánea",
+    "nombre_editorial": "Charles Scribner's Sons",
+    "ubicacion_editorial": "Estados Unidos",
+    "isbn": "9780743273565",
+    "precio": 19.95,
+    "Latitud_ed":  40.757436,
+    "Longitud_ed": -73.977641,
+    "cantidad_stock": 60
+    },
+    {
+    "id": 9,
+    "titulo": "Don Quijote de la Mancha",
+    "autor_nombre": "Miguel de Cervantes",
+    "autor_nacionalidad": "España",
+    "autor_fecha_nacimiento": "1547-09-29",
+    "autor_genero": "Novela picaresca",
+    "nombre_editorial": "Francisco de Robles",
+    "ubicacion_editorial": "España",
+    "isbn": "9788424119656",
+    "precio": 16.00,
+    "Latitud_ed": 40.484462,
+    "Longitud_ed": -3.367712,
+    "cantidad_stock": 70
+    },
+    {
+    "id": 10,
+    "titulo": "Matar un ruiseñor",
+    "autor_nombre": "Harper Lee",
+    "autor_nacionalidad": "Estados Unidos",
+    "autor_fecha_nacimiento": "1926-04-28",
+    "autor_genero": "Novela dramática",
+    "nombre_editorial": "J. B. Lippincott & Co.",
+    "ubicacion_editorial": "Estados Unidos",
+    "isbn": "9780061120084",
+    "precio": 21.99,
+    "Latitud_ed":  39.946731,
+    "Longitud_ed": -75.150962,
+    "cantidad_stock": 85
+    },
+    {
+    "id": 11,
+    "titulo": "Crimen y castigo",
+    "autor_nombre": "Fyodor Dostoevsky",
+    "autor_nacionalidad": "Rusia",
+    "autor_fecha_nacimiento": "1821-11-11",
+    "autor_genero": "Novela psicológica",
+    "nombre_editorial": "The Russian Messenger",
+    "ubicacion_editorial": "Rusia",
+    "isbn": "9780486415871",
+    "precio": 18.50,
+    "Latitud_ed": 55.788301 ,
+    "Longitud_ed": 37.618589,
+    "cantidad_stock": 95
+    }
+]
